@@ -1,4 +1,4 @@
-### Data Science Tutorials covered in Ericsson AI/ML Upskill Program, 2021
+## Data Science Tutorials covered in Ericsson AI/ML Upskill Program, 2021
 
 > A list of Jupyter notebooks
 
