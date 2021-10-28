@@ -1,7 +1,7 @@
-# Tutorials covered in Ericsson AI/ML Upskill Program
+## Data Science Tutorials covered in Ericsson AI/ML Upskill Program, 2021
 
-Under development!
+> A list of Jupyter notebooks
 
-# Useful resources
- * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
- * [Introduction to Anomaly Detection in Python: Techniques and Implementation](https://cnvrg.io/anomaly-detection-python/)
+Python tutorial can be found here [https://github.com/hasibzunair/ieee19-py](https://github.com/hasibzunair/ieee19-py).
+
+**Acknowledgements**: Some notebooks are based on various online code examples.
