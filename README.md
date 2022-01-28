@@ -2,7 +2,7 @@
 
 > A list of Jupyter notebooks
 
-These tutorial notebooks are part of project clinics. 
+Tutorial notebooks in `others`folder are part of project clinics. 
 
 Python tutorial can be found here [https://github.com/hasibzunair/ieee19-py](https://github.com/hasibzunair/ieee19-py).
 
