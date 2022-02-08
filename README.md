@@ -1,4 +1,4 @@
-## Data Science Tutorials covered in Ericsson AI/ML Upskill Program, 2021-2022
+## Tutorials for Applied AI&ML Upskill Program 2.0, Ericsson Canada
 
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 [![Open In Colab][colab-badge]](https://colab.research.google.com/github/hasibzunair/ericsson-upskill-tutorials/blob/main/tensorflow_tutorial.ipynb)
