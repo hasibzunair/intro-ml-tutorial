@@ -5,5 +5,7 @@
 
 Tutorial notebooks in `others` folder are part of project clinics. Python tutorial can be found here [https://github.com/hasibzunair/ieee19-py](https://github.com/hasibzunair/ieee19-py).
 
+### Resources
+* https://feature-engine.trainindata.com/en/latest/
 
 **Acknowledgements**: Some notebooks are based on various online code snippets with approriate credits.
