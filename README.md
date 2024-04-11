@@ -7,5 +7,6 @@ Tutorial notebooks in `others` folder are part of project clinics. Python tutori
 
 ### Resources
 * https://feature-engine.trainindata.com/en/latest/
+* https://feature-engine.trainindata.com/en/latest/user_guide/selection/SmartCorrelatedSelection.html
 
 **Acknowledgements**: Some notebooks are based on various online code snippets with approriate credits.
