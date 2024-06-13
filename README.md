@@ -1,9 +1,9 @@
-## Tutorials for Applied AI&ML Upskill Program 2.0, Ericsson Canada
+## Data Science Tutorials
 
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 [![Open In Colab][colab-badge]](https://colab.research.google.com/github/hasibzunair/ericsson-upskill-tutorials/blob/main/tensorflow_tutorial.ipynb)
 
-Tutorial notebooks in `others` folder are part of project clinics. Python tutorial can be found here [https://github.com/hasibzunair/ieee19-py](https://github.com/hasibzunair/ieee19-py).
+Tutorial materials for **Ericsson AI & ML Upskill Program 2021**. It contains code for introducing Python, Numpy, Pandas, Matplotlib and TensorFlow.
 
 ### Resources
 * https://feature-engine.trainindata.com/en/latest/
