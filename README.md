@@ -1,4 +1,4 @@
-# Data Science Tutorials
+# Intro to Machine Learning Tutorials
 
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 [![Open In Colab][colab-badge]](https://colab.research.google.com/github/hasibzunair/ericsson-upskill-tutorials/blob/main/tensorflow_tutorial.ipynb)
